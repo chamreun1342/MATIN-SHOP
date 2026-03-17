@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="km">
 <head>
     <meta charset="UTF-8">
@@ -46,7 +45,7 @@
 </head>
 <body>
 
-<div class="header"><h3>🏪 Matin Store</h3></div>
+<div class="header"><h3>🏪 ទំនិញ</h3></div>
 
 <div class="container">
     <div class="product-grid" id="productGrid"></div>
