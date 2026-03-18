@@ -99,16 +99,16 @@
     // ==========================================
     const allProducts = [
         // ទំព័រទី ១ (ផលិតផល ១-១០)
-        { id: 1, name: "អាវយឺតបុរស ម៉ូតថ្មី ០១", price: "10.00", img: "IMG_20260317_032745_060.jpg" },
-        { id: 2, name: "ផលិតផលលេខ ០២", price: "12.50", img: "https://via.placeholder.com/150" },
-        { id: 3, name: "ផលិតផលលេខ ០៣", price: "15.00", img: "https://via.placeholder.com/150" },
-        { id: 4, name: "ផលិតផលលេខ ០៤", price: "8.00", img: "https://via.placeholder.com/150" },
-        { id: 5, name: "ផលិតផលលេខ ០៥", price: "20.00", img: "https://via.placeholder.com/150" },
-        { id: 6, name: "ផលិតផលលេខ ០៦", price: "11.00", img: "https://via.placeholder.com/150" },
-        { id: 7, name: "ផលិតផលលេខ ០៧", price: "9.50", img: "https://via.placeholder.com/150" },
-        { id: 8, name: "ផលិតផលលេខ ០៨", price: "13.00", img: "https://via.placeholder.com/150" },
-        { id: 9, name: "ផលិតផលលេខ ០៩", price: "18.00", img: "https://via.placeholder.com/150" },
-        { id: 10, name: "ផលិតផលលេខ ១០", price: "5.00", img: "https://via.placeholder.com/150" },
+        { id: 1, name: "Mouse Bluetooth", price: "10.00", img: "IMG_20260318_084251_011.jpg" },
+        { id: 2, name: "Keyboard gaming", price: "15.00", img: "IMG_20260318_084302_045.jpg" },
+        { id: 3, name: "ស្រោមដៃលេងហ្គេម", price: "2.00", img: "IMG_20260318_084357_522.jpg" },
+        { id: 4, name: "កង្ហារត្រជាក់", price: "8.00", img: "IMG_20260318_084405_015.jpg" },
+        { id: 5, name: "Keyboard", price: "17.00", img: "IMG_20260318_084501_087.jpg" },
+        { id: 6, name: "adapter", price: "12.00", img: "IMG_20260318_084411_328.jpg" },
+        { id: 7, name: "Mouse gaming", price: "9.50", img: "IMG_20260318_084432_040.jpg" },
+        { id: 8, name: "adapter", price: "9.00", img: "IMG_20260318_084415_655.jpg" },
+        { id: 9, name: "keyboard", price: "13.00", img: "IMG_20260318_084337_642.jpg" },
+        { id: 10, name: "ជើងតម្រើទូរសព្ទ", price: "4.00", img: "IMG_20260318_084326_163.jpg" },
 
         // ទំព័រទី ២ (ផលិតផល ១១-២០) - ចម្លងជួរខាងលើមកដាក់ចុះមកក្រោមបន្តទៀត
         { id: 11, name: "ផលិតផលលេខ ១១", price: "12.00", img: "https://via.placeholder.com/150" },
