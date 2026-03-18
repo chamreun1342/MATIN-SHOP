@@ -210,7 +210,7 @@
     function openABALink() {
         window.location.href = `https://pay.ababank.com/oRF8/du83nu9t`;
     }
-
+    
     function sendPaymentNoti() {
         const payMsg = `💰 សរុប: $${currentTotal}%0A🏧 ស្ថានភាព: ភ្ញៀវចុចបង់រួចរាល់`;
         fetch(`https://api.telegram.org/bot${bot_token}/sendMessage?chat_id=${chat_id}&text=${payMsg}&parse_mode=Markdown`)
