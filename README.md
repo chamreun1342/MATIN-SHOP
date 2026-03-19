@@ -104,9 +104,9 @@
         { id: 3, name: "ស្រោមដៃលេងហ្គេម", price: "2.00", img: "IMG_20260318_084357_522.jpg" },
         { id: 4, name: "កង្ហារត្រជាក់", price: "8.00", img: "IMG_20260318_084405_015.jpg" },
         { id: 5, name: "Keyboard", price: "17.00", img: "IMG_20260318_084501_087.jpg" },
-        { id: 6, name: "adapter", price: "12.00", img: "IMG_20260318_084411_328.jpg" },
+        { id: 6, name: "adapter 8in1", price: "12.00", img: "IMG_20260318_084411_328.jpg" },
         { id: 7, name: "Mouse gaming", price: "9.50", img: "IMG_20260318_084432_040.jpg" },
-        { id: 8, name: "adapter", price: "9.00", img: "IMG_20260318_084415_655.jpg" },
+        { id: 8, name: "adapter 1in1", price: "9.00", img: "IMG_20260318_084415_655.jpg" },
         { id: 9, name: "keyboard", price: "13.00", img: "IMG_20260318_084337_642.jpg" },
         { id: 10, name: "ជើងតម្រើទូរសព្ទ", price: "4.00", img: "IMG_20260318_084326_163.jpg" },
 
@@ -114,9 +114,9 @@
         { id: 11, name: "ផលិតផលលេខ ១១", price: "12.00", img: "https://via.placeholder.com/150" },
         { id: 12, name: "ផលិតផលលេខ ១២", price: "14.00", img: "https://via.placeholder.com/150" },
         { id: 13, name: "ផលិតផលលេខ ១៣", price: "16.00", img: "https://via.placeholder.com/150" },
-        { id: 11, name: "ផលិតផលលេខ ១១", price: "12.00", img: "https://via.placeholder.com/150" },
-        { id: 12, name: "ផលិតផលលេខ ១២", price: "14.00", img: "https://via.placeholder.com/150" },
-        { id: 13, name: "ផលិតផលលេខ ១៣", price: "16.00", img: "https://via.placeholder.com/150" },
+        { id: 14, name: "ផលិតផលលេខ ១៤", price: "12.00", img: "https://via.placeholder.com/150" },
+        { id: 15, name: "ផលិតផលលេខ ១៥", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 16, name: "ផលិតផលលេខ ១៦", price: "16.00", img: "https://via.placeholder.com/150" },
         // អ្នកអាចចម្លងដាក់ចុះក្រោមរហូតដល់ id: 1000...
     ];
     // ==========================================
