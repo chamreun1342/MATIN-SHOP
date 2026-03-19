@@ -125,7 +125,7 @@
         { id: 21, name: "ដុយទូរស័ព្ទ Type-c in Type-c", price: "3.00", img: "IMG_2113856405854556.jpeg" },
         { id: 22, name: "ក្បាលដុយ", price: "3.00", img: "IMG_2174346076711134.jpeg" },
         { id: 23, name: "ជើងតម្រើទូរសព្ទ (ដែក)", price: "3.00", img: "IMG_27299441729644339.jpeg" },
-        { id: 24, name: "ផលិតផលលេខ ២៤", price: "00.00", img: "https://via.placeholder.com/150" },
+        { id: 24, name: "កង្ហារត្រជាក់ប្រើថ្ម", price: "15.00", img: "IMG_2119595465501475.jpeg" },
         { id: 25, name: "ផលិតផលលេខ ២៥", price: "00.00", img: "https://via.placeholder.com/150" },
         { id: 26, name: "ផលិតផលលេខ ២៦", price: "00.00", img: "https://via.placeholder.com/150" },
         { id: 27, name: "ផលិតផលលេខ ២៧", price: "00.00", img: "https://via.placeholder.com/150" },
