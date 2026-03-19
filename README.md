@@ -106,7 +106,7 @@
         { id: 5, name: "Keyboard", price: "17.00", img: "IMG_20260318_084501_087.jpg" },
         { id: 6, name: "adapter 8in1", price: "12.00", img: "IMG_20260318_084411_328.jpg" },
         { id: 7, name: "Mouse gaming", price: "9.50", img: "IMG_20260318_084432_040.jpg" },
-        { id: 8, name: "adapter 1in1", price: "9.00", img: "IMG_20260318_084415_655.jpg" },
+        { id: 8, name: "adapter HDMI in TYPE-C", price: "9.00", img: "IMG_20260318_084415_655.jpg" },
         { id: 9, name: "keyboard", price: "13.00", img: "IMG_20260318_084337_642.jpg" },
         { id: 10, name: "ជើងតម្រើទូរសព្ទ", price: "4.00", img: "IMG_20260318_084326_163.jpg" },
 
