@@ -111,12 +111,28 @@
         { id: 10, name: "ជើងតម្រើទូរសព្ទ", price: "4.00", img: "IMG_20260318_084326_163.jpg" },
 
         // ទំព័រទី ២ (ផលិតផល ១១-២០) - ចម្លងជួរខាងលើមកដាក់ចុះមកក្រោមបន្តទៀត
-        { id: 11, name: "ផលិតផលលេខ ១១", price: "12.00", img: "https://via.placeholder.com/150" },
-        { id: 12, name: "ផលិតផលលេខ ១២", price: "14.00", img: "https://via.placeholder.com/150" },
-        { id: 13, name: "ផលិតផលលេខ ១៣", price: "16.00", img: "https://via.placeholder.com/150" },
-        { id: 14, name: "ផលិតផលលេខ ១៤", price: "12.00", img: "https://via.placeholder.com/150" },
+        { id: 11, name: "ស្រោមដៃលេងហ្គេម(ipad)", price: "6.00", img: "IMG_937065932039407.jpeg" },
+        { id: 12, name: "កូនម៉ូទ័រផ្លុំខ្យល់", price: "11.00", img: "IMG_1255773696082426.jpeg" },
+        { id: 13, name: "Mouse pad", price: "7.00", img: "IMG_1458750585601465.jpeg" },
+        { id: 14, name: "ដងថត", price: "12.00", img: "IMG_4003905753240366.jpeg" },
         { id: 15, name: "ផលិតផលលេខ ១៥", price: "14.00", img: "https://via.placeholder.com/150" },
         { id: 16, name: "ផលិតផលលេខ ១៦", price: "16.00", img: "https://via.placeholder.com/150" },
+        { id: 17, name: "ផលិតផលលេខ ១៧", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 18, name: "ផលិតផលលេខ ១៨", price: "16.00", img: "https://via.placeholder.com/150" },
+        { id: 19, name: "ផលិតផលលេខ ១៩", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 20, name: "ផលិតផលលេខ ២០", price: "16.00", img: "https://via.placeholder.com/150" },
+
+         // ទំព័រទី ៣ (ផលិតផល ២០-៣០) - ចម្លងជួរខាងលើមកដាក់ចុះមកក្រោមបន្តទៀត
+        { id: 21, name: "ផលិតផលលេខ ២១", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 22, name: "ផលិតផលលេខ ២២", price: "16.00", img: "https://via.placeholder.com/150" },
+        { id: 23, name: "ផលិតផលលេខ ២៣", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 24, name: "ផលិតផលលេខ ២៤", price: "16.00", img: "https://via.placeholder.com/150" },
+        { id: 25, name: "ផលិតផលលេខ ២៥", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 26, name: "ផលិតផលលេខ ២៦", price: "16.00", img: "https://via.placeholder.com/150" },
+        { id: 27, name: "ផលិតផលលេខ ២៧", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 28, name: "ផលិតផលលេខ ២៨", price: "16.00", img: "https://via.placeholder.com/150" },
+        { id: 29, name: "ផលិតផលលេខ ២៩", price: "14.00", img: "https://via.placeholder.com/150" },
+        { id: 30, name: "ផលិតផលលេខ ៣០", price: "16.00", img: "https://via.placeholder.com/150" },
         // អ្នកអាចចម្លងដាក់ចុះក្រោមរហូតដល់ id: 1000...
     ];
     // ==========================================
